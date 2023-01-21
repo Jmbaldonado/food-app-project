@@ -1,5 +1,5 @@
 import React from "react";
-import CartIcon from "../../../cart/icon/index.jsx";
+import CartIcon from "../../../cart/components/icon/index.jsx";
 import classes from "./styled.module.css";
 const Index = () => {
   return (
